@@ -1,8 +1,9 @@
 
 Hi there! 👋
+
 I'm Angela Manjarres.
 
-Who are you? 🤔
+Who am I? 🤔
 I'm a Business Administration student 📚, a baker 🧁, and a developer in training 💻.
 
 What I'm learning: 🌱
